@@ -25,4 +25,5 @@ if(!class_exists('YiiBase', false))
  */
 class Yii extends YiiBase
 {
+	echo 'YiiBase';
 }
